@@ -60,7 +60,7 @@ o	Save the final modified image to your local directory.
 ```
 # Step 1: Load an image from your local directory and display it
 import cv2
-image_path = 'puppies.jpg'  # Replace with your image path
+image_path = 'elephant.jpg'  # Replace with your image path
 image = cv2.imread(image_path)
 
 # Check if the image was loaded successfully
