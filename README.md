@@ -54,7 +54,7 @@ o	Save the final modified image to your local directory.
 
 ##### Program:
 ### Developed By: SUBISHESH P
-### Register Number: 21222324
+### Register Number: 212223230220
 
 ### i)Read and Display an Image
 ```
